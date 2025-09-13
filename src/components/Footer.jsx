@@ -66,7 +66,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <a href="tel:+556130819705"> 📞 Contato: (61) 3081-9705 </a>
+          <a href="tel:+556133339999"> 📞 Contato: (61) 3333-9999 </a>
           <a
             href="#"
             download="CONTRATO_PRESTAÇÃO_DE_SERVIÇO.pdf"
