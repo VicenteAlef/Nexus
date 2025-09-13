@@ -7,7 +7,7 @@ design** foram também aplicados em um **site real de cliente**.
 
 ## Visite o Site
 
-[Izzy Play Site](https://izzy-play-store-vicente-silvas-projects.vercel.app/)
+[Nexus Site](https://nexus.vicentedeveloper.com/)
 
 ---
 
