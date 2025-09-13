@@ -5,6 +5,10 @@ fictícia.\
 O projeto foi desenvolvido para fins de portfólio, mas seu **layout e
 design** foram também aplicados em um **site real de cliente**.
 
+## Visite o Site
+
+[Izzy Play Site](https://izzy-play-store-vicente-silvas-projects.vercel.app/)
+
 ---
 
 ## ✨ Tecnologias Utilizadas
