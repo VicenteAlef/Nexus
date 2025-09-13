@@ -4,7 +4,6 @@ import NavBar from "./components/NavBar";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import WhatsAppBtn from "./components/WhatsApp";
-import { color } from "framer-motion";
 
 function App() {
   return (
